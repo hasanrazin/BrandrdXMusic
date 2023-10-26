@@ -68,7 +68,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/BongoBondhuSheikhMujiburRahman"
+                text="⛦ ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/NazimUddinToha"
             ),
             InlineKeyboardButton(
                 text="⛦ ꜱᴜᴘᴘᴏʀᴛ 🥀", url=f"https://t.me/Bongobondhu_bots"
@@ -90,7 +90,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/BongoBondhuSheikhMujiburRahman"
+                text="⛦ ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/NazimuddinToha"
             ),
             InlineKeyboardButton(
                 text="⛦ ꜱᴜᴘᴘᴏʀᴛ 🥀", url=f"https://t.me/Bongobondhu_bots"

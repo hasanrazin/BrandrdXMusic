@@ -90,7 +90,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="⛦ ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/NazimuddinToha"
+                text="⛦ ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/Bongobondhusheikhmujiburrahman"
             ),
             InlineKeyboardButton(
                 text="⛦ ꜱᴜᴘᴘᴏʀᴛ 🥀", url=f"https://t.me/Bongobondhu_bots"
